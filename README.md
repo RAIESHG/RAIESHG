@@ -10,7 +10,7 @@
 <br/>
 <br/>
 ### My Tech Stack
-<img align="left" alt="Flutter,Firebase,Dart,NodeJS,ReactJS,Html,CSS,JavaScript" title="" src="https://i.ibb.co/Cn6KLJs/mytech.png" />\
+<img align="left" title="Flutter, Firebase, Dart, NodeJS, ReactJS, Html, CSS, JavaScript" src="https://i.ibb.co/Cn6KLJs/mytech.png" />\
 <br/>
 
 
