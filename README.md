@@ -9,8 +9,8 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.svgrepo.com/show/9911/linkedin.svg" />][linkedin]
 <br/>
 <br/>
-### My Tech Stack
-<img align="left" title="Flutter, Firebase, Dart, NodeJS, ReactJS, Html, CSS, JavaScript" src="https://i.ibb.co/Cn6KLJs/mytech.png" />\
+<!-- ### My Tech Stack
+<img align="left" title="Flutter, Firebase, Dart, NodeJS, ReactJS, Html, CSS, JavaScript" src="https://i.ibb.co/Cn6KLJs/mytech.png" />\ -->
 <br/>
 
 
