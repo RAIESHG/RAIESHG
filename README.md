@@ -19,7 +19,6 @@
 <br/> -->
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=RAIESHG)
 
 
 [facebook]: https://www.facebook.com/raiesh.ghimire.31/
